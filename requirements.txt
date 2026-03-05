@@ -1,7 +1,7 @@
-matplotlib==3.10.8
-numpy==2.4.2
-opencv_python==4.13.0.90
-rasterio==1.4.4
-torch==2.10.0+cu128
-tqdm==4.67.1
-numpy==2.2.6
+numpy~=2.2.6
+pillow~=12.1.1
+osmnx~=2.0.7
+geopandas~=1.1.2
+earthengine-api~=1.7.15
+requests~=2.32.5
+mapbox~=0.18.1
