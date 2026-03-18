@@ -3,3 +3,5 @@
 /src/data/cache/
 .idea/
 
+/data/
+/src/sputnik-segmentation/data/cache/
